@@ -1,0 +1,7 @@
+const ZERO_ADDRESS = "0x0000000000000000000000000000000000000000";
+const ORIGIN_ADDRESS = "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE";
+
+module.exports = {
+    ZERO_ADDRESS,
+    ORIGIN_ADDRESS
+}
